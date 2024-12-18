@@ -175,3 +175,4 @@ server.on("listening", () => {
 });
 
 server.listen({ port: PORT });
+console.log("Interstellar website loaded.");
